@@ -1,0 +1,16 @@
+# FF files
+*.sfd-*
+*.sfd~
+
+# subfolders
+teutonic-*/
+
+# No Binaries
+#*.ttf
+#*.ttc
+#*.otf
+#*.woff
+#*.pfb
+#*.pfa
+#*.pt3
+#*.suit

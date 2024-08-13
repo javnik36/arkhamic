@@ -1,0 +1,215 @@
+StartChar: L
+Encoding: 76 76 23
+Width: 410
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHW_4
+ 15
+ 8
+ 46
+ 4
+CALL
+PUSHW_1
+ 46
+SRP0
+PUSHW_1
+ 0
+MDRP[rp0,grey]
+NPUSHW
+ 15
+ 6
+ 15
+ 22
+ 15
+ 38
+ 15
+ 54
+ 15
+ 70
+ 15
+ 86
+ 15
+ 102
+ 15
+ 7
+DELTAP1
+NPUSHW
+ 5
+ 117
+ 15
+ 133
+ 15
+ 2
+DELTAP1
+PUSHW_1
+ 15
+SRP0
+PUSHW_1
+ 12
+MDRP[rp0,grey]
+PUSHW_1
+ 12
+MDAP[rnd]
+PUSHW_1
+ 15
+SRP0
+PUSHW_2
+ 59
+ 5
+MIRP[rp0,rnd,grey]
+PUSHW_1
+ 56
+MDRP[rp0,grey]
+PUSHW_1
+ 56
+MDAP[rnd]
+SVTCA[y-axis]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 3
+MDAP[rnd]
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 33
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 33
+ 9
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 37
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 37
+ 9
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 40
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 40
+ 9
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 43
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 43
+ 9
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 37
+SRP0
+PUSHW_2
+ 21
+ 3
+MIRP[rp0,rnd,grey]
+NPUSHW
+ 15
+ 7
+ 21
+ 23
+ 21
+ 39
+ 21
+ 55
+ 21
+ 71
+ 21
+ 87
+ 21
+ 103
+ 21
+ 7
+DELTAP1
+NPUSHW
+ 5
+ 118
+ 21
+ 134
+ 21
+ 2
+DELTAP1
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+20 657 m 1,0,1
+ 43 660 43 660 65 661 c 128,-1,2
+ 87 662 87 662 109 662 c 2,3,-1
+ 192 662 l 2,4,5
+ 200 662 200 662 206.5 658.5 c 128,-1,6
+ 213 655 213 655 220 650 c 1,7,8
+ 213 639 213 639 203 629.5 c 128,-1,9
+ 193 620 193 620 183.5 610 c 128,-1,10
+ 174 600 174 600 167.5 588.5 c 128,-1,11
+ 161 577 161 577 161 563 c 0,12,13
+ 159 444 159 444 162.5 325.5 c 128,-1,14
+ 166 207 166 207 164 88 c 1,15,16
+ 178 88 178 88 191 88.5 c 128,-1,17
+ 204 89 204 89 218 89 c 0,18,19
+ 239 89 239 89 258.5 83.5 c 128,-1,20
+ 278 78 278 78 299 78 c 0,21,22
+ 309 78 309 78 321 81.5 c 128,-1,23
+ 333 85 333 85 345.5 90.5 c 128,-1,24
+ 358 96 358 96 370.5 101 c 128,-1,25
+ 383 106 383 106 394 109 c 1,26,27
+ 401 93 401 93 400 81 c 0,28,29
+ 400 75 400 75 396 60.5 c 128,-1,30
+ 392 46 392 46 386.5 31 c 128,-1,31
+ 381 16 381 16 374.5 2.5 c 128,-1,32
+ 368 -11 368 -11 363 -15 c 1,33,-1
+ 356 -15 l 2,34,35
+ 337 -15 337 -15 320.5 -6.5 c 128,-1,36
+ 304 2 304 2 286 4 c 0,37,38
+ 269 6 269 6 251.5 5.5 c 128,-1,39
+ 234 5 234 5 217 5 c 0,40,41
+ 172 5 172 5 129.5 2.5 c 128,-1,42
+ 87 0 87 0 42 0 c 0,43,44
+ 35 0 35 0 27.5 4.5 c 128,-1,45
+ 20 9 20 9 20 17 c 0,46,47
+ 20 22 20 22 26 28.5 c 128,-1,48
+ 32 35 32 35 39.5 42 c 128,-1,49
+ 47 49 47 49 54 56 c 128,-1,50
+ 61 63 61 63 64 69 c 0,51,52
+ 67 76 67 76 69 86 c 128,-1,53
+ 71 96 71 96 72 107 c 128,-1,54
+ 73 118 73 118 73.5 128 c 128,-1,55
+ 74 138 74 138 74 146 c 0,56,57
+ 76 243 76 243 73.5 337.5 c 128,-1,58
+ 71 432 71 432 72 529 c 0,59,60
+ 73 560 73 560 65 578 c 128,-1,61
+ 57 596 57 596 47 608 c 128,-1,62
+ 37 620 37 620 28.5 630 c 128,-1,63
+ 20 640 20 640 20 657 c 1,0,1
+EndSplineSet
+Kerns2: 64 -125 "Podtablica 'kern' Kerning poziomy w tablicy 0" 29 -112 "Podtablica 'kern' Kerning poziomy w tablicy 0" 21 -107 "Podtablica 'kern' Kerning poziomy w tablicy 0" 18 -56 "Podtablica 'kern' Kerning poziomy w tablicy 0" 1 -88 "Podtablica 'kern' Kerning poziomy w tablicy 0"
+EndChar

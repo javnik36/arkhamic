@@ -1,0 +1,26 @@
+StartChar: macron
+Encoding: 175 175 143
+Width: 373
+GlyphClass: 1
+Flags: W
+TtInstrs:
+SVTCA[y-axis]
+PUSHW_4
+ 1
+ 2
+ 2
+ 4
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+32 700 m 1,0,-1
+ 340 700 l 1,1,-1
+ 340 637 l 1,2,-1
+ 32 637 l 1,3,-1
+ 32 700 l 1,0,-1
+EndSplineSet
+EndChar

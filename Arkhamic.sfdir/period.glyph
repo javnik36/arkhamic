@@ -1,0 +1,107 @@
+StartChar: period
+Encoding: 46 46 76
+Width: 153
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHW_4
+ 3
+ 8
+ 11
+ 4
+CALL
+NPUSHW
+ 5
+ 122
+ 11
+ 138
+ 11
+ 2
+DELTAP1
+NPUSHW
+ 15
+ 9
+ 11
+ 25
+ 11
+ 41
+ 11
+ 57
+ 11
+ 73
+ 11
+ 89
+ 11
+ 105
+ 11
+ 7
+DELTAP1
+PUSHW_1
+ 3
+SRP0
+PUSHW_1
+ 15
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 8
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 8
+ 9
+MIAP[no-rnd]
+EIF
+PUSHW_2
+ 0
+ 4
+MIRP[rp0,rnd,grey]
+NPUSHW
+ 15
+ 7
+ 0
+ 23
+ 0
+ 39
+ 0
+ 55
+ 0
+ 71
+ 0
+ 87
+ 0
+ 103
+ 0
+ 7
+DELTAP1
+NPUSHW
+ 5
+ 118
+ 0
+ 134
+ 0
+ 2
+DELTAP1
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+81 118 m 0,0,1
+ 99 118 99 118 115 103 c 128,-1,2
+ 131 88 131 88 131 70 c 0,3,4
+ 131 58 131 58 127 45.5 c 128,-1,5
+ 123 33 123 33 116 22.5 c 128,-1,6
+ 109 12 109 12 98 5 c 128,-1,7
+ 87 -2 87 -2 74 -2 c 0,8,9
+ 52 -2 52 -2 37 12.5 c 128,-1,10
+ 22 27 22 27 22 49 c 0,11,12
+ 22 74 22 74 38.5 96 c 128,-1,13
+ 55 118 55 118 81 118 c 0,0,1
+EndSplineSet
+EndChar

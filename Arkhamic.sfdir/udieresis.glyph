@@ -1,0 +1,11 @@
+StartChar: udieresis
+Encoding: 252 252 60
+Width: 385
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 50 117 N 1 0 0 1 0 0 3
+Refer: 57 168 N 1 0 0 1 70 0 2
+Kerns2: 33 -25 "Podtablica 'kern' Kerning poziomy w tablicy 0"
+EndChar

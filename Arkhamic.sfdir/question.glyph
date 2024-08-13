@@ -1,0 +1,132 @@
+StartChar: question
+Encoding: 63 63 113
+Width: 494
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHW_4
+ 21
+ 8
+ 0
+ 4
+CALL
+PUSHW_1
+ 21
+SRP0
+PUSHW_2
+ 6
+ 8
+MIRP[rp0,rnd,grey]
+PUSHW_3
+ 26
+ 0
+ 21
+SRP1
+SRP2
+IP
+PUSHW_1
+ 26
+MDAP[rnd]
+PUSHW_2
+ 27
+ 8
+MIRP[rp0,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 3
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 3
+ 15
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 0
+RCVT
+IF
+PUSHW_1
+ 28
+MDAP[rnd]
+ELSE
+PUSHW_2
+ 28
+ 9
+MIAP[no-rnd]
+EIF
+PUSHW_1
+ 3
+SRP0
+PUSHW_2
+ 24
+ 4
+MIRP[rp0,rnd,grey]
+NPUSHW
+ 5
+ 121
+ 24
+ 137
+ 24
+ 2
+DELTAP1
+NPUSHW
+ 15
+ 8
+ 24
+ 24
+ 24
+ 40
+ 24
+ 56
+ 24
+ 72
+ 24
+ 88
+ 24
+ 104
+ 24
+ 7
+DELTAP1
+PUSHW_1
+ 28
+SRP0
+PUSHW_2
+ 26
+ 4
+MIRP[rp0,rnd,grey]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+133 453 m 1,0,-1
+ 38 472 l 1,1,2
+ 57 679 57 679 240 679 c 0,3,4
+ 329 679 329 679 380 629 c 128,-1,5
+ 431 579 431 579 431 495 c 0,6,7
+ 431 453 431 453 413.5 411 c 128,-1,8
+ 396 369 396 369 331 316 c 0,9,10
+ 287 279 287 279 277.5 258.5 c 128,-1,11
+ 268 238 268 238 268 204 c 2,12,-1
+ 268 178 l 1,13,-1
+ 176 178 l 1,14,-1
+ 176 198 l 2,15,16
+ 176 270 176 270 187.5 298.5 c 128,-1,17
+ 199 327 199 327 243 365 c 0,18,19
+ 287 402 287 402 303.5 429 c 128,-1,20
+ 320 456 320 456 320 497 c 0,21,22
+ 320 543 320 543 297 567 c 128,-1,23
+ 274 591 274 591 234 591 c 0,24,25
+ 141 591 141 591 133 453 c 1,0,-1
+167 120 m 1,26,-1
+ 276 120 l 1,27,-1
+ 276 0 l 1,28,-1
+ 167 0 l 1,29,-1
+ 167 120 l 1,26,-1
+EndSplineSet
+EndChar

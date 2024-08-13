@@ -1,0 +1,10 @@
+StartChar: Agrave
+Encoding: 192 192 145
+Width: 487
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 3
+Refer: 79 96 N 1 0 0 1 192 103 2
+EndChar

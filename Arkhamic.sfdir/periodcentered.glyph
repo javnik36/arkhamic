@@ -1,0 +1,68 @@
+StartChar: periodcentered
+Encoding: 183 183 119
+Width: 158
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHW_4
+ 3
+ 8
+ 9
+ 4
+CALL
+NPUSHW
+ 15
+ 6
+ 3
+ 22
+ 3
+ 38
+ 3
+ 54
+ 3
+ 70
+ 3
+ 86
+ 3
+ 102
+ 3
+ 7
+DELTAP1
+NPUSHW
+ 5
+ 117
+ 3
+ 133
+ 3
+ 2
+DELTAP1
+PUSHW_1
+ 3
+SRP0
+PUSHW_1
+ 13
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_4
+ 0
+ 4
+ 6
+ 4
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+81 389 m 0,0,1
+ 104 389 104 389 119.5 374.5 c 128,-1,2
+ 135 360 135 360 135 337 c 0,3,4
+ 135 312 135 312 118 292 c 128,-1,5
+ 101 272 101 272 75 272 c 0,6,7
+ 55 272 55 272 39 286 c 128,-1,8
+ 23 300 23 300 23 321 c 0,9,10
+ 23 347 23 347 38.5 368 c 128,-1,11
+ 54 389 54 389 81 389 c 0,0,1
+EndSplineSet
+EndChar
