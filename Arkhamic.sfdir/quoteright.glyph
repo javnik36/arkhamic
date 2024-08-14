@@ -80,5 +80,6 @@ SplineSet
  28 763 28 763 28 779 c 256,19,20
  28 795 28 795 41.5 804 c 128,-1,21
  55 813 55 813 69 813 c 0,0,1
+  Named: "quoteright"
 EndSplineSet
 EndChar

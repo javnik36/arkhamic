@@ -57,5 +57,6 @@ SplineSet
  125 620 l 2,29,30
  119 620 119 620 113.5 620.5 c 128,-1,31
  108 621 108 621 101 621 c 1,0,1
+  Named: "caron"
 EndSplineSet
 EndChar
