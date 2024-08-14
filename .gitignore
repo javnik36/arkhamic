@@ -5,6 +5,9 @@
 # subfolders
 teutonic-*/
 
+# backups
+*backup*/
+
 # No Binaries
 #*.ttf
 #*.ttc
