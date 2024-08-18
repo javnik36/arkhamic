@@ -7,4 +7,5 @@ LayerCount: 2
 Fore
 Refer: 24 79 N 1 0 0 1 0 0 3
 Refer: 80 180 N 1 0 0 1 128 103 2
+Kerns2: 1 -37 "Podtablica 'kern' Kerning poziomy w tablicy 0" 27 -32 "Podtablica 'kern' Kerning poziomy w tablicy 0" 25 -19 "Podtablica 'kern' Kerning poziomy w tablicy 0" 62 -43 "Podtablica 'kern' Kerning poziomy w tablicy 0" 21 -150 "Podtablica 'kern' Kerning poziomy w tablicy 0"
 EndChar
