@@ -90,4 +90,5 @@ SplineSet
  122 658 122 658 140.5 660 c 128,-1,110
  159 662 159 662 177 662 c 0,20,21
 EndSplineSet
+Kerns2: 21 -150 "Podtablica 'kern' Kerning poziomy w tablicy 0"
 EndChar
