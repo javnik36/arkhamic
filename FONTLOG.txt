@@ -6,21 +6,56 @@ and any derivative works.
 
 == Basic Font Information ==
 
-Arkhamic is a typeface made from already existing Tetonic font. It expands
+Arkhamic is a typeface made from already existing Teutonic font. It expands
 available glyphs to include more Latin (mostly) characters.
 
 == ChangeLog ==
 
-Aug 2024 (Javnik) Arkhamic Version 1.1
+Aug 2024 (Javnik) Arkhamic Version 2.0
 - Initial release as "Arkhamic"
+- Added missing glyphs used in Polish:
+  * Aa ogonek (U+0104/U+0105)
+  * Cc acute (U+0106/U+0107)
+  * Ee ogonek (U+0118/U+0119)
+  * Ll slash (U+0141/U+0142)
+  * Nn acute (U+0143/U+0144)
+  * Ss acute (U+015A/U+015B)
+  * Zz acute (U+0179/U+017A)
+  * Zz dot above (U+017B/U+017C)
+  * single high-reversed quotation mark (U+201B)
+- Added glyphs used in Czech and Slovak:
+  * Cc caron (U+010C/U+010D)
+  * Dd caron (U+010E/U+010F)
+  * Ee caron (U+011A/U+011B)
+  * Ll acute (U+0139/U+013A)
+  * Ll caron (U+013D/U+013E)
+  * Nn caron (U+0147/U+0148)
+  * Rr acute (U+0154/U+0155)
+  * Rr caron (U+0158/U+0159)
+  * Tt caron (U+0164/U+0165)
+  * Uu ring (U+016E/U+016F)
+  * Zz caron (U+017D/U+017E)
+- Added glyphs used in Hungarian:
+  * Oo double acute (U+0150/U+0151)
+  * Uu double acute (U+0170/U+0171)
+- Adjusted double acute accent glyph (U+02DD)
+- Added several kerning pairs between newly added glyphs and other ones
+- Adjusted existing kerning pairs (mostly with small y)
+- Changed exclamation (U+0021) and question (U+003F) marks to glyphs that better suit the font
+  * Adjusted inverted versions of those marks as well (U+00A1/U+00BF)
 
-? 2014 (Peter Wiegel) Teutonic Version 1.0
+2014 (Peter Wiegel) Teutonic Version 1.0
 - Initial release
 
 == Acknowledgements ==
 
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Javnik
+E: x
+W: https://github.com/javnik36
+D: Original creator of Arkhamic Font
 
 N: Peter Wiegel
 E: x
