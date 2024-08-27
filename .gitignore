@@ -8,6 +8,9 @@ teutonic-*/
 # backups
 *backup*/
 
+# others
+trash*
+
 # No Binaries
 #*.ttf
 #*.ttc

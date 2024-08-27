@@ -24,7 +24,8 @@ More details in releases page.
   * Adjusted inverted versions of those marks as well (`U+00A1`/`U+00BF`).
 
 ## Licence
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under GNU [GPLv3+F3](/Licence/GPLv3+FE.txt) AND [SIL Open Font License, Version 1.1](/Licence/OFL.txt).
 
 Copyright (c) 2024 [Javnik](https://github.com/javnik36/), with Reserved Font Name „Arkhamic“.
-Copyright (c) 2014 [Peter Wiegel](http://www.peter-wiegel.de/), with Reserved Font Name „Teutonic“.
+
+Copyright (c) 2012-2014 [Peter Wiegel](http://www.peter-wiegel.de/), with Reserved Font Name „Teutonic“.
