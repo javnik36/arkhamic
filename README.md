@@ -23,8 +23,8 @@ More details in releases page.
 - Changed exclamation (`U+0021`) and question (`U+003F`) marks to glyphs that better suit the font,
   * Adjusted inverted versions of those marks as well (`U+00A1`/`U+00BF`).
 
-## Licence
-This Font Software is licensed under GNU [GPLv3+F3](/Licence/GPLv3+FE.txt) AND [SIL Open Font License, Version 1.1](/Licence/OFL.txt).
+## License
+This Font Software is licensed under GNU [GPLv3+FE](/License/GPLv3+FE.txt) AND [SIL Open Font License, Version 1.1](/License/OFL.txt).
 
 Copyright (c) 2024 [Javnik](https://github.com/javnik36/), with Reserved Font Name „Arkhamic“.
 
