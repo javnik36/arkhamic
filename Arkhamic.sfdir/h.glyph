@@ -268,5 +268,5 @@ SplineSet
  37 602 37 602 20 617 c 1,88,-1
  20 642 l 1,0,1
 EndSplineSet
-Kerns2: 202 40 "Podtablica 'kern' Kerning poziomy w tablicy 0" 54 40 "Podtablica 'kern' Kerning poziomy w tablicy 0" 36 -37 "Podtablica 'kern' Kerning poziomy w tablicy 0"
+Kerns2: 203 40 "Podtablica 'kern' Kerning poziomy w tablicy 0" 39 73 "Podtablica 'kern' Kerning poziomy w tablicy 0" 202 40 "Podtablica 'kern' Kerning poziomy w tablicy 0" 54 40 "Podtablica 'kern' Kerning poziomy w tablicy 0" 36 -37 "Podtablica 'kern' Kerning poziomy w tablicy 0"
 EndChar
