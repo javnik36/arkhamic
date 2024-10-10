@@ -11,6 +11,11 @@ available glyphs to include more Latin (mostly) characters.
 
 == ChangeLog ==
 
+Oct 2024 (Javnik) Arkhamic Version 2.1
+- Added several kerning pairs to the font, e.g. between C and y (and their variants),
+  R and jx or between k and hjy
+- Adjusted kerning between left parentesis and j '(j'
+- Widened right width anchor of 2 characters - dcaron and lcaron
 Aug 2024 (Javnik) Arkhamic Version 2.0
 - Initial release as "Arkhamic"
 - Added missing glyphs used in Polish:
