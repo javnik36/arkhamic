@@ -26,6 +26,6 @@ More details in releases page.
 ## License
 This Font Software is licensed under GNU [GPLv3+FE](/License/GPLv3+FE.txt) AND [SIL Open Font License, Version 1.1](/License/OFL.txt).
 
-Copyright (c) 2024 [Javnik](https://github.com/javnik36/), with Reserved Font Name „Arkhamic“.
+Copyright (c) 2024-2025 [Javnik](https://github.com/javnik36/), with Reserved Font Name „Arkhamic“.
 
 Copyright (c) 2012-2014 [Peter Wiegel](http://www.peter-wiegel.de/), with Reserved Font Name „Teutonic“.

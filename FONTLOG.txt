@@ -10,7 +10,9 @@ Arkhamic is a typeface made from already existing Teutonic font. It expands
 available glyphs to include more Latin (mostly) characters.
 
 == ChangeLog ==
-
+Aug 2025 (Javnik) Arkhamic Version 2.2
+- Add Oo macron (U+014C/U+014D) with all kerning pairs
+- Adjust macron (U+00AF) to match macron used in Oo macron glyph
 Oct 2024 (Javnik) Arkhamic Version 2.1
 - Added several kerning pairs to the font, e.g. between C and y (and their variants),
   R and jx or between k and hjy
