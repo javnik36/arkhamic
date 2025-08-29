@@ -1,0 +1,18 @@
+StartChar: omacron
+Encoding: 333 333 267
+Width: 345
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+291.2109375 629.813476562 m 5
+ 291 599 291 599 291 569 c 5
+ 244 572 244 572 182 572 c 4
+ 121 572 121 572 72 571 c 5
+ 72 602 72 602 71 631 c 5
+ 175 628 l 4
+ 206 628 206 628 291.2109375 629.813476562 c 5
+EndSplineSet
+Refer: 44 111 N 1 0 0 1 0 0 3
+Kerns2: 36 -24 "Podtablica 'kern' Kerning poziomy w tablicy 0" 250 25 "Podtablica 'kern' Kerning poziomy w tablicy 0" 35 25 "Podtablica 'kern' Kerning poziomy w tablicy 0"
+EndChar
